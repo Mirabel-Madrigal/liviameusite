@@ -1,18 +1,36 @@
 body {
-     background-color:rgba(30, 143, 255, 0.856)
+     background-color:rgba(122, 5, 5, 0.856)
 }
 
+#imgsite {
+    height: 20%;       
+    width: 40%;
+    padding: 1px;
+    margin: 5px;
+    border: 3px solid;
+    border-radius: 10px;
+    margin-left: 30%
+}
+
+principal {
+    background:rgba(122, 5, 5, 0.856)
+    padding: 30px
+}
 
 h1 {
-   color:rgba(30, 143, 255, 0.856)
    text-align: center;
-font-size: 50px;
+   color:rgba(122, 5, 5, 0.856);
+   font-size: 50px;
+
 }
 
-.principal {
-    background:rgba(30, 143, 255, 0.856)
-    font-size: 30px
-}
+
+
+
+
+
+
+
 
 
 
